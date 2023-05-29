@@ -1,7 +1,7 @@
 ### Hi there,I'm Joey👋.
 
 - 🌱 I’m currently learning Typescript
-- 🎁 [Joey's Projects](https://burning1993.github.io/)
+- 🎁 [Joey's Projects](https://joey2217.github.io/)
 
 **Languages and Tools:**
 
